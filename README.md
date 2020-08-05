@@ -1,5 +1,6 @@
 # Save-the-Date: DARIAH-DE-Virtual-Workshop „Publikation von Forschungsdaten in der Geschichtswissenschaft“ 02. & 03.09.2020
 
+You can use the [editor on GitHub](https://github.com/ieg-dhr/fdm4history-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files
 
 Am 2. und 3. September 2020 bietet Michael Czolkoß einen Workshop zum Management und zur Publikation von Forschungsdaten für Nachwuchswissenschaftler:innen in den Geschichtswissenschaften an. Die Veranstaltung wird gemeinsam mit dem DH Lab des Leibniz-Institut für Europäische Geschichte (IEG) im Rahmen von DARIAH-DE durchgeführt.
 
