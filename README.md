@@ -10,9 +10,9 @@ Der digitale Workshop richtet sich an historisch arbeitende Nachwuchswissenschaf
 Forschungsdatenmanagement in ihre Arbeit integrieren und die Möglichkeiten einer Datenpublikation ausloten möchten.
 
 ## Ablauf
-Di, 02.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz </n>
-Di, Nachmittags: praktische Übung (asynchron) </n>
-Mi, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz </n>
+Di, 02.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz </br>
+Di, Nachmittags: praktische Übung (asynchron) </br>
+Mi, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz </br>
 
 Ein detailliertes Programm folgt.
 
@@ -21,6 +21,6 @@ Die Teilnehmerzahl ist auf *20 Teilnehmende* beschränkt.
 Eine Anmeldung ist bereits möglich unter: digital@ieg-mainz.de
 
 ## Team
-Michael Czolkoß-Hettwer, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </n>
-Anna Aschauer, IEG Mainz </n>
-Fabian Cremer, IEG Mainz </n>
+Michael Czolkoß-Hettwer, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </br>
+Anna Aschauer, IEG Mainz </br>
+Fabian Cremer, IEG Mainz </br>
