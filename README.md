@@ -18,7 +18,7 @@ Ein detailliertes Programm folgt.
 
 ## Anmeldung
 Die Teilnehmerzahl ist auf *20 Teilnehmende* beschränkt.
-Eine Anmeldung ist bereits möglich unter: digital@ieg-mainz.de
+Eine Anmeldung ist bereits möglich unter: **digital@ieg-mainz.de**
 
 ## Team
 <p>Michael Czolkoß-Hettwer, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </p>
