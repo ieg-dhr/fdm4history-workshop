@@ -1,26 +1,41 @@
-# Save-the-Date: DARIAH-DE-Virtual-Workshop „Publikation von Forschungsdaten in der Geschichtswissenschaft“ 02. & 03.09.2020
+# DARIAH-DE-Virtual-Workshop: Publikation von Forschungsdaten in der Geschichtswissenschaft
 
-Am 2. und 3. September 2020 bietet Michael Czolkoß einen Workshop zum Management und zur Publikation von Forschungsdaten für Nachwuchswissenschaftler:innen in den Geschichtswissenschaften an. Die Veranstaltung wird gemeinsam mit dem DH Lab des Leibniz-Institut für Europäische Geschichte (IEG) im Rahmen von DARIAH-DE durchgeführt.
+Am 2. und 3. September 2020 bietet Michael Czolkoß einen Workshop zum Management und zur Publikation von Forschungsdaten für Nachwuchswissenschaftler:innen in den Geschichtswissenschaften an. Die Veranstaltung wird gemeinsam mit dem DH Lab des Leibniz-Instituts für Europäische Geschichte (IEG) im Rahmen von [https://de.dariah.eu/](DARIAH-DE) durchgeführt.
+
+`Anmeldung bis zum 25. August 2020 unter digital@ieg-mainz.de!`
+
+## Einführung
+Die Publikation digitaler Forschungsdaten gewinnt auch in den Geschichtswissenschaften eine zunehmende Bedeutung. Als Bestandteil der guten wissenschaftlichen Praxis zielt die Veröffentlichung der Daten auf eine größere Transparenz der Forschungsprozesse und eine bessere Nachnutzung der Forschungsergebnisse. Vor diesem Hintergrund ist der Erwerb von grundlegenden Kenntnissen und die reflektierte Auseinandersetzung mit diesem Publikationsformat ein wichtiges Element für Qualifizierungsarbeiten und die berufliche Weiterbildung.
 
 ## Inhalte
 Nach einer Einführung zum Forschungsdatenmanagement werden Möglichkeiten und Praktiken der Publikation von Forschungsdaten in der Geschichtswissenschaft diskutiert. Eine praktische Übung zur Dokumentation und Veröffentlichung von Daten wird am Folgetag gemeinsam reflektiert und ermittelt, welche Potentiale die Publikation der eigenen Forschungsdaten entfalten könnte.
 
 ## Zielgruppe
-Der digitale Workshop richtet sich an historisch arbeitende Nachwuchswissenschaftler:innen und fortgeschrittene Studierende, die
-Forschungsdatenmanagement in ihre Arbeit integrieren und die Möglichkeiten einer Datenpublikation ausloten möchten.
+Der digitale Workshop richtet sich an historisch arbeitende Nachwuchswissenschaftler:innen und fortgeschrittene Studierende, die 
+Forschungsdatenmanagement in ihre Arbeit integrieren und die Möglichkeiten einer Datenpublikation ausloten möchten. Spezifische IT-Vorkenntnisse oder Erfahrungen im Bereich der Digital Humanities sind nicht notwendig.
 
-## Ablauf
+## Programm
+- Vorbereitung: Lektüre Einführungstext
 - Mi, 02.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
-- Mi, Nachmittags: praktische Übung (asynchron)
+  - Vortrag: Forschungsdatenmanagement in der Geschichtswissenschaft
+  - Impuls: Forschungsdatenmanagement am IEG Mainz
+  - Diskussionsrunde
+- Mi, 02.09.20, nachmittags: praktische Übung (asynchron)
+  - praktischer Testlauf für die Publikation der eigenen Daten
+  - Open Garage | Offene Sprechstunde
 - Do, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
-
-Ein detailliertes Programm folgt.
+  - Besprechung der Ergebnisse, Probleme und Erfahrungen der Übung
+  - Abschlussdiskussion
 
 ## Anmeldung
-Die Teilnehmerzahl ist auf *20 Teilnehmende* beschränkt.
-Eine Anmeldung ist bereits möglich unter: **digital@ieg-mainz.de**
+- Die Zahl der Teilnehmenden ist auf 20 beschränkt.
+- Eine Teilnahmebestätigung kann ausgestellt werden.
+- Wir bitten um Anmeldung unter: digital@ieg-mainz.de bis zum 25. August 2020.
 
 ## Team
-- Michael Czolkoß-Hettwer, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
-- Anna Aschauer, Leibniz-Institut für Europäische Geschichte (IEG), Mainz
-- Fabian Cremer, Leibniz-Institut für Europäische Geschichte (IEG), Mainz
+- Michael Czolkoß-Hettwer \
+Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
+- Anna Aschauer \
+Leibniz-Institut für Europäische Geschichte (IEG)
+- Fabian Cremer \
+Leibniz-Institut für Europäische Geschichte (IEG)
