@@ -1,6 +1,4 @@
-# DARIAH-DE-Virtual-Workshop: Publikation von Forschungsdaten in der Geschichtswissenschaft
-
-Am 2. und 3. September 2020 bietet Michael Czolkoß einen Workshop zum Management und zur Publikation von Forschungsdaten für Nachwuchswissenschaftler:innen in den Geschichtswissenschaften an. Die Veranstaltung wird gemeinsam mit dem DH Lab des Leibniz-Instituts für Europäische Geschichte (IEG) im Rahmen von [https://de.dariah.eu/](DARIAH-DE) durchgeführt.
+Am 2. und 3. September 2020 bietet Michael Czolkoß-Hettwer einen Workshop zum Management und zur Publikation von Forschungsdaten für Nachwuchswissenschaftler:innen in den Geschichtswissenschaften an. Die Veranstaltung wird gemeinsam mit dem [DH Lab des Leibniz-Instituts für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/forschung/digitale_historische_forschung) im Rahmen von [DARIAH-DE](https://de.dariah.eu/) durchgeführt.
 
 > Anmeldung bis zum 25. August 2020 unter digital@ieg-mainz.de!
 
@@ -15,27 +13,27 @@ Der digitale Workshop richtet sich an historisch arbeitende Nachwuchswissenschaf
 Forschungsdatenmanagement in ihre Arbeit integrieren und die Möglichkeiten einer Datenpublikation ausloten möchten. Spezifische IT-Vorkenntnisse oder Erfahrungen im Bereich der Digital Humanities sind nicht notwendig.
 
 ## Programm
-- Vorbereitung: Lektüre Einführungstext
-- Mi, 02.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
+Vorbereitung: Lektüre Einführungstext
+
+Mi, 02.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
   - Vortrag: Forschungsdatenmanagement in der Geschichtswissenschaft
   - Impuls: Forschungsdatenmanagement am IEG Mainz
   - Diskussionsrunde
-- Mi, 02.09.20, nachmittags: praktische Übung (asynchron)
+
+Mi, 02.09.20, nachmittags: praktische Übung (asynchron)
   - praktischer Testlauf für die Publikation der eigenen Daten
-  - Open Garage / Offene Sprechstunde
-- Do, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
+  - Open Garage / Offene Sprechstunde der Veranstaltenden
+
+Do, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
   - Besprechung der Ergebnisse, Probleme und Erfahrungen der Übung
-  - Abschlussdiskussion
+  - Abschlussdiskussion zur Datenpublikation in der Geschichtswissenschaft
 
 ## Anmeldung
-- Die Zahl der Teilnehmenden ist auf 20 beschränkt.
+- Die Zahl der Teilnehmenden ist auf *20* beschränkt.
 - Eine Teilnahmebestätigung kann ausgestellt werden.
 - Wir bitten um Anmeldung unter: digital@ieg-mainz.de bis zum 25. August 2020.
 
 ## Team
-- Michael Czolkoß-Hettwer \
-Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
-- Anna Aschauer \
-Leibniz-Institut für Europäische Geschichte (IEG)
-- Fabian Cremer \
-Leibniz-Institut für Europäische Geschichte (IEG)
+Michael Czolkoß-Hettwer, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz \
+Anna Aschauer, Leibniz-Institut für Europäische Geschichte (IEG) \
+Fabian Cremer, Leibniz-Institut für Europäische Geschichte (IEG)
