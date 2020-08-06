@@ -16,24 +16,31 @@ Forschungsdatenmanagement in ihre Arbeit integrieren und die Möglichkeiten eine
 Vorbereitung: Lektüre Einführungstext
 
 Mi, 02.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
-  - Vortrag: Forschungsdatenmanagement in der Geschichtswissenschaft
-  - Impuls: Forschungsdatenmanagement am IEG Mainz
-  - Diskussionsrunde
+  - *Vortrag: Forschungsdatenmanagement in der Geschichtswissenschaft*
+  - *Impuls: Forschungsdatenmanagement am IEG Mainz*
+  - *Diskussionsrunde*
 
 Mi, 02.09.20, nachmittags: praktische Übung (asynchron)
-  - praktischer Testlauf für die Publikation der eigenen Daten
-  - Open Garage / Offene Sprechstunde der Veranstaltenden
+  - *praktischer Testlauf für die Publikation der eigenen Daten*
+  - *Open Garage / Offene Sprechstunde der Veranstaltenden*
 
 Do, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
-  - Besprechung der Ergebnisse, Probleme und Erfahrungen der Übung
-  - Abschlussdiskussion zur Datenpublikation in der Geschichtswissenschaft
+  - *Besprechung der Ergebnisse, Probleme und Erfahrungen der Übung*
+  - *Abschlussdiskussion zur Datenpublikation in der Geschichtswissenschaft*
 
 ## Anmeldung
-- Die Zahl der Teilnehmenden ist auf *20* beschränkt.
-- Eine Teilnahmebestätigung kann ausgestellt werden.
-- Wir bitten um Anmeldung unter: digital@ieg-mainz.de bis zum 25. August 2020.
+Die Zahl der Teilnehmenden ist auf **20** beschränkt. \
+Eine Teilnahmebestätigung kann ausgestellt werden. \
+Wir bitten um Anmeldung unter: digital@ieg-mainz.de bis zum **25. August 2020**.
 
 ## Team
-Michael Czolkoß-Hettwer, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz \
-Anna Aschauer, Leibniz-Institut für Europäische Geschichte (IEG) \
-Fabian Cremer, Leibniz-Institut für Europäische Geschichte (IEG)
+- Michael Czolkoß-Hettwer \
+Staatsbibliothek zu Berlin – Preußischer Kulturbesitz \
+<a href="https://orcid.org/0000-0002-4019-9857"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> https://orcid.org/0000-0002-4019-9857</a>
+
+- Anna Aschauer \
+Leibniz-Institut für Europäische Geschichte (IEG)
+
+- Fabian Cremer \
+Leibniz-Institut für Europäische Geschichte (IEG) \
+<a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> https://orcid.org/0000-0001-8251-9727</a>
