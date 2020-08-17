@@ -1,6 +1,6 @@
 Am 2. und 3. September 2020 bietet Michael Czolkoß-Hettwer (Referendar an der [Staatsbibliothek zu Berlin – Preußischer Kulturbesitz](https://staatsbibliothek-berlin.de/)) einen Workshop zum Management und zur Publikation von Forschungsdaten für Nachwuchswissenschaftler:innen in den Geschichtswissenschaften an. Die Veranstaltung wird gemeinsam mit dem [DH Lab des Leibniz-Instituts für Europäische Geschichte (IEG)](https://www.ieg-mainz.de/forschung/digitale_historische_forschung) im Rahmen von [DARIAH-DE](https://de.dariah.eu/) durchgeführt.
 
-> Anmeldung bis zum 25. August 2020 unter digital@ieg-mainz.de!
+> :exclamation: Die Veranstaltung ist bereits ausgebucht! Bei Interesse an einer Wiederholungsveranstaltung oder weiteren Informationen melden Sie sich bitte gerne unter [digital@ieg-mainz.de](mailto:digital@ieg-mainz.de). :exclamation:
 
 ## Einführung
 Die Publikation digitaler Forschungsdaten gewinnt auch in den Geschichtswissenschaften eine zunehmende Bedeutung. Als Bestandteil der guten wissenschaftlichen Praxis zielt die Veröffentlichung der Daten auf eine größere Transparenz der Forschungsprozesse und eine bessere Nachnutzung der Forschungsergebnisse. Vor diesem Hintergrund ist der Erwerb von grundlegenden Kenntnissen und die reflektierte Auseinandersetzung mit diesem Publikationsformat ein wichtiges Element für Qualifizierungsarbeiten und die berufliche Weiterbildung.
@@ -31,7 +31,8 @@ Do, 03.09.20, 10 - 12 Uhr: Gemeinsame Videokonferenz
 ## Anmeldung
 Die Zahl der Teilnehmenden ist auf **20** beschränkt. \
 Eine Teilnahmebestätigung kann ausgestellt werden. \
-Wir bitten um Anmeldung unter: digital@ieg-mainz.de bis zum **25. August 2020**.
+~~Wir bitten um Anmeldung unter: digital@ieg-mainz.de bis zum **25. August 2020**.~~
+Hinweis: Die Veranstaltung ist bereits ausgebucht! Bei Interesse an einer Wiederholungsveranstaltung oder weiteren Informationen melden Sie sich bitte unter [digital@ieg-mainz.de](mailto:digital@ieg-mainz.de).
 
 ## Team
 - Michael Czolkoß-Hettwer \
