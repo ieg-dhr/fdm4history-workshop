@@ -41,7 +41,7 @@ Referenzen aus den Präsentationen oder Diskussionen
 
 **Rechtsfragen / Lizenzen**
 - Creative Commons-Lizenzen: [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
-- Praxisleitfaden zu CC-Lizenzen: [https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences/Guide](https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences/Guide)
+- Praxisleitfaden zu CC-Lizenzen: [A Practical Guide to Using Creative Commons Licences](https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences/Guide)
 
 ### Fragen und Antworten
 Ausgewählte Fragen und Antworten aus den Diskussionen
