@@ -86,7 +86,7 @@ A: Die Metadaten sehen keine multilingualen Einträge vor. Für mehrsprachige Me
 A: [Beispielseite](https://repository.de.dariah.eu/1.0/dhcrud/21.11113/0000-000B-D462-7)
 
 **F: Gibt es eine Liste empfehlenswerter Repositorien zum Fach Geschichte?** \
-Nein. Das allgemeine Verzeichnis von Forschungsdatenrepositorien listet derzeit kein (für die Publikation eigener Daten) offenes Repositorium für die Geschichtswissenschaft, [https://www.re3data.org/](https://www.re3data.org/). Daher sollten institutionelle Repositorien der eigenen Einrichtung oder generische Repositorien genutzt werden, z.B.:
+Nein. Das allgemeine Verzeichnis von Forschungsdatenrepositorien [re3data](https://www.re3data.org/) listet derzeit kein (für die Publikation eigener Daten) offenes Repositorium für die Geschichtswissenschaft. Daher sollten institutionelle Repositorien der eigenen Einrichtung oder generische Repositorien genutzt werden, z.B.:
 - DARIAH-DE, [http://repository.de.dariah.eu](http://repository.de.dariah.eu)
 - Humanities Commons, [https://hcommons.org/core](https://hcommons.org/core)
 - Zenodo, [https://zenodo.org](https://zenodo.org)
