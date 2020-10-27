@@ -5,10 +5,10 @@
 ### Präsentationen
 * **Forschungsdatenmanagement in der Geschichtswissenschaft** \
 *Michael Czolkoß-Hettwer* \
-pdf | odp
+[pdf](./fdm4history-czolkoß-hettwer-fdm-in-gw.pdf) | [odp](./fdm4history-czolkoß-hettwer-fdm-in-gw.odp)
 * **Forschungsdatenmanagement am Leibniz-Institut für Europäische Geschichte** \
 *Fabian Cremer* \
-pdf | odp
+[pdf](./fdm4history-cremer-impuls.pdf) | [odp](./fdm4history-cremer-impuls.odp)
 
 ### Bibliografie
 Referenzen aus den Präsentationen oder Diskussionen
