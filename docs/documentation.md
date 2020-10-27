@@ -14,10 +14,10 @@ pdf | odp
 Referenzen aus den Präsentationen oder Diskussionen
 
 **Datenformate**
-- IANUS / Forschungsdatenzentrum Archäologie & Altertumswissenschaften (Hg.): IT-Empfehlungen für den nachhaltigen Umgang mit Digitalen Daten in den Altertumswissenschaften, Version 1.0, Stand: 11/2017, (https://doi.org/10.13149/000.111000-a).
+- IANUS / Forschungsdatenzentrum Archäologie & Altertumswissenschaften (Hg.): IT-Empfehlungen für den nachhaltigen Umgang mit Digitalen Daten in den Altertumswissenschaften, Version 1.0, Stand: 11/2017, [](https://doi.org/10.13149/000.111000-a).
 
 **Grundlagen und Kontexte**
-- Andorfer, Peter: Forschungsdaten in den (digitalen) Geisteswissenschaften. Versuch einer Konkretisierung (DARIAH-DE Working Papers, Nr. 14), Göttingen 2015,  (http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2).
+- Andorfer, Peter: Forschungsdaten in den (digitalen) Geisteswissenschaften. Versuch einer Konkretisierung (DARIAH-DE Working Papers, Nr. 14), Göttingen 2015,  [](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2).
 - Cremer, Fabian / Klaffki, Lisa / Steyer, Timo: Der Chimäre auf der Spur: Forschungsdaten in den Geisteswissenschaften, in: o-bib. Das offene Bibliotheksjournal 5/2 (2018), S. 142-162 (DOI:10.5282/o-bib/2018H2S142-162).
 - Puhl, Johanna  / Andorfer, Peter / Höckendorff, Mareike / Schmunk, Stefan / Stiller, Juliane / Thoden, Klaus:  Diskussion und Definition eines Research Data LifeCycle für die digitalen Geisteswissenschaften (DARIAH-DE Working Papers, Nr. 11), Göttingen 2015 (URN: http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-4-4).
 
