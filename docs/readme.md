@@ -6,10 +6,10 @@ Diese Seite dokumentiert die Veranstaltung.
 Die Publikation digitaler Forschungsdaten gewinnt auch in den Geschichtswissenschaften eine zunehmende Bedeutung. Als Bestandteil der guten wissenschaftlichen Praxis zielt die Veröffentlichung der Daten auf eine größere Transparenz der Forschungsprozesse und eine bessere Nachnutzung der Forschungsergebnisse. Vor diesem Hintergrund ist der Erwerb von grundlegenden Kenntnissen und die reflektierte Auseinandersetzung mit diesem Publikationsformat ein wichtiges Element für Qualifizierungsarbeiten und die berufliche Weiterbildung.
 
 ## Informationen zum Workshop
-[Ankündigung und Programm](./announcement.html)
+[Ankündigung und Programm](./docs/announcement.html)
 
 ## Dokumentation zum Workshop
-[Präsentationen, Bibliografie, Links, Fragen und Antworten](./documentation.html)
+[Präsentationen, Bibliografie, Links, Fragen und Antworten](./docs/documentation.html)
 
 ## Team
 - Michael Czolkoß-Hettwer \
