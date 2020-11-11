@@ -13,8 +13,9 @@
 ### Bibliografie
 Referenzen aus den Präsentationen oder Diskussionen
 
-**Datenformate**
+**Datenformate und Infrastruktur**
 - IANUS / Forschungsdatenzentrum Archäologie & Altertumswissenschaften (Hg.): IT-Empfehlungen für den nachhaltigen Umgang mit Digitalen Daten in den Altertumswissenschaften, Version 1.0, Stand: 11/2017, [DOI: 10.13149/000.111000-a](https://doi.org/10.13149/000.111000-a).
+- Mache, Beata, and Lisa Klaffki: Das DARIAH-DE Repository. Elementarer Teil einer modularen Infrastruktur für geistes- und kulturwissenschaftliche Forschungsdaten, in: o-bib. Das offene Bibliotheksjournal 5/3 (2018), S. 92–103, [DOI:10.5282/o-bib/2018H3S92-103](https://doi.org/10.5282/o-bib/2018H3S92-103).
 
 **Grundlagen und Kontexte**
 - Andorfer, Peter: Forschungsdaten in den (digitalen) Geisteswissenschaften. Versuch einer Konkretisierung (DARIAH-DE Working Papers, Nr. 14), Göttingen 2015,  [URN: urn:nbn:de:gbv:7-dariah-2015-7-2](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2).
