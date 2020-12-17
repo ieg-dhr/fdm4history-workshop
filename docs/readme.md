@@ -12,7 +12,7 @@ Die Publikation digitaler Forschungsdaten gewinnt auch in den Geschichtswissensc
 [Präsentationen, Bibliografie, Links, Fragen und Antworten](./documentation.html)
 
 ## Publikation zum Workshop
-Anna Aschauer, Fabian Cremer u. Michael Czolkoß-Hettwer: Publikation von Forschungsdaten in der Geschichtswissenschaft (Open Educational Resource), Zenodo 2020 [http://doi.org/10.5281/zenodo.4300275](http://doi.org/10.5281/zenodo.4300275).
+Anna Aschauer, Fabian Cremer u. Michael Czolkoß-Hettwer: Publikation von Forschungsdaten in der Geschichtswissenschaft (Open Educational Resource), Zenodo 2020, [http://doi.org/10.5281/zenodo.4300275](http://doi.org/10.5281/zenodo.4300275).
 
 ## Team
 - Michael Czolkoß-Hettwer \
