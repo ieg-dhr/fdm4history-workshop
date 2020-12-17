@@ -2,6 +2,9 @@
 
 ## Dokumentation zum Workshop
 
+## Publikation zum Workshop
+Anna Aschauer, Fabian Cremer u. Michael Czolkoß-Hettwer: Publikation von Forschungsdaten in der Geschichtswissenschaft (Open Educational Resource), Zenodo 2020, [http://doi.org/10.5281/zenodo.4300275](http://doi.org/10.5281/zenodo.4300275).
+
 ### Präsentationen
 * **Forschungsdatenmanagement in der Geschichtswissenschaft** \
 *Michael Czolkoß-Hettwer* \
