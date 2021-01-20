@@ -24,6 +24,7 @@ Referenzen aus den Präsentationen oder Diskussionen
 - Andorfer, Peter: Forschungsdaten in den (digitalen) Geisteswissenschaften. Versuch einer Konkretisierung (DARIAH-DE Working Papers, Nr. 14), Göttingen 2015,  [URN: urn:nbn:de:gbv:7-dariah-2015-7-2](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2).
 - Cremer, Fabian / Klaffki, Lisa / Steyer, Timo: Der Chimäre auf der Spur: Forschungsdaten in den Geisteswissenschaften, in: o-bib. Das offene Bibliotheksjournal 5/2 (2018), S. 142-162, [DOI:10.5282/o-bib/2018H2S142-162](https://doi.org/10.5282/o-bib/2018H2S142-162).
 - Puhl, Johanna  / Andorfer, Peter / Höckendorff, Mareike / Schmunk, Stefan / Stiller, Juliane / Thoden, Klaus:  Diskussion und Definition eines Research Data LifeCycle für die digitalen Geisteswissenschaften (DARIAH-DE Working Papers, Nr. 11), Göttingen 2015, [URN: urn:nbn:de:gbv:7-dariah-2015-4-4](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-4-4).
+- Markus Putnings, Heike Neuroth, und Janna Neumann, Hrsg. Praxishandbuch Forschungsdatenmanagement. Praxishandbuch Forschungsdatenmanagement. De Gruyter Saur, 2021. [DOI:10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
 **Rechtliche Aspekte**
 - Brehm, Elke / Neumann, Janna: Anforderungen an Open-Access-Publikationen von Forschungsdaten – Empfehlungen für einen offenen Umgang mit Forschungsdaten, in: o-bib. Das offene Bibliotheksjournal 5/3 (2018), S. 1-16, [DOI: 10.5282/o-bib/2018H3S1-16](https://doi.org/10.5282/o-bib/2018H3S1-16).
